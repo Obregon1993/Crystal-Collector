@@ -21,7 +21,7 @@ if (score < random) {
     $("#red").on("click", function () {
         score += red;
         $("#score").text(score);
-        return score
+       
     });
     $("#yellow").on("click", function () {
         score += yellow;
