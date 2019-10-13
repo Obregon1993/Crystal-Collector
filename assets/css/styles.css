@@ -1,0 +1,12 @@
+#floatLeft{
+    
+    float: left;
+}
+#number{
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+}
+#clear{
+    clear: both;
+}
